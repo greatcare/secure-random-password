@@ -1,6 +1,6 @@
 'use strict';
 
-var random = require('./lib/random').default;
+var random = require('./lib/random');
 var sets = require('./lib/character-sets');
 var util = require('./lib/util');
 
